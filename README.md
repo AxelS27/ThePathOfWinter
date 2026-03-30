@@ -1,6 +1,20 @@
 # ❄️ The Path of Winter
 
-The Path of Winter is a 2D action-adventure game built in Java, designed around structured gameplay, interactive systems, and object-oriented architecture.
+The Path of Winter is a 2D action-adventure game built in Java, designed around structured gameplay and object-oriented architecture.
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%"/>
+  <img src="screenshots/level-select.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/level-2.png" width="45%"/>
+  <img src="screenshots/ingame-2.png" width="45%"/>
+</p>
 
 ---
 
@@ -8,7 +22,7 @@ The Path of Winter is a 2D action-adventure game built in Java, designed around 
 
 The project delivers a complete game system where players explore levels, interact with entities, and progress through structured challenges.
 
-Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (OOP) and a modular architecture to manage game logic, rendering, and interaction.
+Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (OOP) and a modular architecture.
 
 ---
 
@@ -27,9 +41,9 @@ Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (
 
 ## 🧠 Architecture
 
-- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism, Abstraction)  
-- MVC-based design for separation of logic and interface  
-- Modular class structure (Entity, Player, NPC, Monster, GamePanel, etc.)  
+- Object-Oriented Programming (OOP)  
+- MVC-based design  
+- Modular class structure  
 
 ---
 
@@ -39,20 +53,6 @@ Java • JavaFX • JDBC • MySQL
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="screenshots/login.png" width="45%"/>
-  <img src="screenshots/level-select.png" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/level-2.png" width="45%"/>
-  <img src="screenshots/ingame-2.png" width="45%"/>
-</p>
-
----
-
 ## ⚡ Notes
 
-This project demonstrates how structured system design and OOP principles can be applied to build a complete interactive application, combining gameplay mechanics with backend integration.
+This project demonstrates structured system design through a complete interactive application.
