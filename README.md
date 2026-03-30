@@ -47,7 +47,7 @@ Java • JavaFX • JDBC • MySQL
 </p>
 
 <p align="center">
-  <img src="screenshots/level2.png" width="45%"/>
+  <img src="screenshots/level-2.png" width="45%"/>
   <img src="screenshots/ingame-2.png" width="45%"/>
 </p>
 
