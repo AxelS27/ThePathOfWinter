@@ -8,7 +8,7 @@ The Path of Winter is a 2D action-adventure game built in Java, designed around 
 
 The project delivers a complete game system where players explore levels, interact with entities, and progress through structured challenges.
 
-Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (OOP) and a modular architecture for handling game logic, rendering, and interaction.
+Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (OOP) and a modular architecture to manage game logic, rendering, and interaction.
 
 ---
 
@@ -36,6 +36,20 @@ Built using Java and JavaFX, the system emphasizes Object-Oriented Programming (
 ## 🛠️ Tech Stack
 
 Java • JavaFX • JDBC • MySQL  
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%"/>
+  <img src="screenshots/level-select.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/level2.png" width="45%"/>
+  <img src="screenshots/ingame-2.png" width="45%"/>
+</p>
 
 ---
 
